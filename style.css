@@ -185,3 +185,25 @@
     align-items: center;
     gap: 125px;
 }
+
+.h1box5{
+    width: 384px;
+    height: 54px;
+    font-size: 36px;
+    font-weight: 600;
+    color: #192252;
+}
+
+.d1box5{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.box5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 125px;
+    margin-top: 10px;
+}
